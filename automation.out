@@ -1,0 +1,4 @@
+2021-08-01 07:08:33 INFO  LogsHelper:21 - Opening URL
+2021-08-01 07:08:132 INFO  LogsHelper:28 - Typing 'XPS' in search field
+2021-08-01 07:08:610 INFO  LogsHelper:35 - Clicking on search button
+2021-08-01 07:08:87 INFO  LogsHelper:44 - Verifying results page
